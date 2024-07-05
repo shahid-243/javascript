@@ -1,0 +1,18 @@
+
+body{
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgb(20, 29, 44);
+    background-image: url(https://www.shutterstock.com/image-photo/old-antique-wood-clock-carvings-metal-250875664);
+    
+}
+#clock{
+    color: rgb(215, 16, 237);
+    font-size: 7em;
+    
+}
+
+#time{
+    color: rgb(230, 28, 166);
+    font-size: 7em;
+}
